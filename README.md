@@ -1,2 +1,4 @@
-# coursera_capstone_applied_data_science
-Applied Data Science course by IBM on coursera
+# IBM Data Science Professional Specialization
+## Capstone Project: Applied Data Science, offered by IBM on Coursera
+
+This repository is for the capstone project and the associated assignments.
